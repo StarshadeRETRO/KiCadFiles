@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "!GGFootprints")(type "KiCad")(uri "${KIPRJMOD}/../!GGFootprints.pretty")(options "")(descr ""))
+  (lib (name "!SGFootprints")(type "KiCad")(uri "${KIPRJMOD}/../../../../Libraries/SGFootprints.pretty")(options "")(descr "Unofficial footprints for SEGA devices"))
 )
