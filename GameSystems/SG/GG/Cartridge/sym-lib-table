@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "!GGSymbols")(type "KiCad")(uri "${KIPRJMOD}/../!GGSymbols.kicad_sym")(options "")(descr ""))
+)
