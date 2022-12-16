@@ -16,19 +16,23 @@ Key
 SGSymbols
 =========
 Unofficial symbols for SEGA systems.
-| Symbol Name              | System     | Type              | Status        |
-| ------------------------ | ---------- | ----------------- | ------------- |
-| SG_GG_CARTRIDGE_FINGERS  | Game Gear  | Cartridge Fingers | ❓ Untested   |
-| SG_GG_CARTRIDGE_SLOT     | Game Gear  | Cartridge Slot    | ❓ Untested   |
+| Symbol Name               | System         | Type              | Status        |
+| ------------------------- | -------------- | ----------------- | ------------- |
+| SG_GG_CARTRIDGE_FINGERS   | Game Gear      | Cartridge Fingers | ❓ Untested   |
+| SG_GG_CARTRIDGE_SLOT      | Game Gear      | Cartridge Slot    | ❓ Untested   |
+| SG_SMS_CARTRIDGE_FINGERS  | Master System  | Cartridge Fingers | ❓ Untested   |
+| SG_SMS_CARTRIDGE_SLOT     | Master System  | Cartridge Slot    | ❓ Untested   |
 
 SGFootprints
 ============
 Unofficial footprints for SEGA systems.
-| Footprint Name           | System     | Type              | Status        |
-| ------------------------ | ---------- | ----------------- | ------------- |
-| SG_GG_CARTRIDGE_FINGERS  | Game Gear  | Cartridge Fingers | ❓ Untested   |
-| SG_GG_CARTRIDGE_SLOT     | Game Gear  | Cartridge Slot    | ❓ Untested   |
+| Footprint Name            | System         | Type              | Status        |
+| ------------------------- | -------------- | ----------------- | ------------- |
+| SG_GG_CARTRIDGE_FINGERS   | Game Gear      | Cartridge Fingers | ❓ Untested   |
+| SG_GG_CARTRIDGE_SLOT      | Game Gear      | Cartridge Slot    | ❓ Untested   |
+| SG_SMS_CARTRIDGE_FINGERS  | Master System  | Cartridge Fingers | ❓ Untested   |
+| SG_SMS_CARTRIDGE_SLOT     | Master System  | Cartridge Slot    | ❓ Untested   |
 
 Disclaimer
 ==========
-SEGA and Game Gear are registered trademarks of SEGA GAMES CO., LTD. Not sponsored, endorsed, or approved by SEGA.
+SEGA, Master System, and Game Gear are registered trademarks of SEGA GAMES CO., LTD. Not sponsored, endorsed, or approved by SEGA.
