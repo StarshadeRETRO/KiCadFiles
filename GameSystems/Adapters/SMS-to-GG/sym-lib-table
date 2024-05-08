@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "!SGSymbols")(type "KiCad")(uri "${KIPRJMOD}/../../../Libraries/SGSymbols.kicad_sym")(options "")(descr "Unofficial symbols for SEGA systems"))
+  (version 7)
+  (lib (name "!SGSymbols")(type "KiCad")(uri "${KIPRJMOD}/../../../Libraries/SGSymbols.kicad_sym")(options "")(descr "Unofficial symbols for SEGA products"))
+  (lib (name "!MiscSymbols")(type "KiCad")(uri "${KIPRJMOD}/../../../Libraries/MiscSymbols.kicad_sym")(options "")(descr "Misc symbols"))
 )

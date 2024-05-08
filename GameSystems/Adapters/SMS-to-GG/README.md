@@ -5,4 +5,13 @@ If getting this made, use a 1.6mm or 1.4mm PCB thickness. 1.6mm is a little tigh
 
 You can purchase this adapter [from our store](https://store.starshade.dev/en-gb/product/oscr-and-accessories/oscr-accessories/oscr-adapter-game-gear).
 
-*SEGA, Master System, and Game Gear are registered trademarks of SEGA GAMES CO., LTD. Not sponsored, endorsed, or approved by SEGA.*
+## Revision History
+| Rev | Description                                                                                   | Status          |
+| --- | --------------------------------------------------------------------------------------------- | --------------- |
+| 1   | Initial                                                                                       | ❌ Broken       |
+| 2   | Fixed misaligned mounting holes.                                                              | ❌ Incompatible |
+| 3   | Moved slot footprint up to allow room for RetroSix GameSlot GG PCB and added a header for it. | ✔️ Verified     |
+| 4   | Updated silkscreen and disclaimer formatting and wording. No mechanical difference vs Rev 3.  | ✔️ Verified     |
+
+*SEGA and Game Gear are registered trademarks of SEGA CORPORATION (Japan). SEGA Master System is a trademark of Sega of America, Inc./SEGA CORPORATION (Japan). Neither affiliated with, nor authorized, sponsored, or approved by SEGA.*
+*RetroSix is a registered trademark of Luke Malpass (UK). Neither affiliated with, nor authorized, sponsored, or approved by RetroSix/Luke Malpass.*

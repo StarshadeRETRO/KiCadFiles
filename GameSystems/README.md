@@ -6,4 +6,4 @@ Footprints and PCBs for various game systems.
 | SG                | SEGA-compatible PCBs for systems and accessories.                 |
 
 
-*SEGA is a registered trademark of SEGA GAMES CO., LTD. Not sponsored, endorsed, or approved by SEGA.*
+*SEGA is a registered trademark of SEGA CORPORATION (Japan). Not sponsored, endorsed, or approved by SEGA.*
